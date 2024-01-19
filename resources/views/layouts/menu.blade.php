@@ -33,7 +33,7 @@
         <li class="menu-item">
             <a href="{{ route('dashboard') }}" class="menu-link">
                 {{-- <i class="menu-icon tf-icons bx bx-home-circle"></i> --}}
-                <i class="menu-icon tf-icons fa-regular fa-folder-open"></i>
+                <i class="menu-icon tf-icons fa-regular fa-folder-open "></i>
                 {{-- <i class="fa-regular fa-user"></i> --}}
                 <div data-i18n="Analytics">Formulários</div>
             </a>
